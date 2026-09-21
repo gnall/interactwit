@@ -12,6 +12,20 @@ remembers the players you group with and how you've interacted with them:
 It also mirrors Blizzard's own **"recently interacted"** feed (the new Friends-list
 tab) so you get their data *and* your own richer history in one place.
 
+## Screenshots
+
+Right-click a player's unit frame for a **View interactions** shortcut:
+
+![Interactwit option on a unit frame right-click menu](screenshots/screenshot1.png)
+
+The same shortcut is added to entries in the **Recent Allies** list:
+
+![Interactwit option on a Recent Allies right-click menu](screenshots/screenshot2.png)
+
+The journal window shows everything you've done with that player:
+
+![The Interactwit interaction journal window](screenshots/screenshot3.png)
+
 ---
 
 ## Is this safe? Will I get banned?
