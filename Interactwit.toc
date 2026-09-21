@@ -1,0 +1,23 @@
+## Interface: 120105
+## Title: Interactwit
+## Notes: A social journal that tracks the players you meet and how you've interacted with them (quests, dungeons, trades, and more).
+## Author: Interactwit
+## Version: 0.1.0
+## SavedVariables: InteractwitDB
+## IconTexture: Interface\ICONS\INV_Misc_GroupLooking
+## X-Website: https://wowforeverwiki.org/addons
+## X-Category: Social
+
+# NOTE ON "## Interface:" ABOVE
+# WoW: Forever is in beta and its build number changes frequently. If the addon
+# shows as "Out of Date", either enable "Load out of date AddOns" on the character
+# select AddOns screen, or update the number above to match your client. You can get
+# the correct value in-game with:  /dump (select(4, GetBuildInfo()))
+
+# Load order matters: Constants -> Core -> data -> Tracker -> UI
+Constants.lua
+Core.lua
+FinalBosses.lua
+Tracker.lua
+UI.lua
+Menus.lua

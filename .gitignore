@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+._*
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# WoW addon build/packaging artifacts
+*.zip
+.release/
